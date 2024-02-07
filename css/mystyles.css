@@ -1,0 +1,13 @@
+.div1{background-color: yellow;
+      border: solid;
+      height: 300px;
+      width: 300px;
+      }
+.div2{background-color: green;
+      border: solid;
+      height: 300px;
+      width: 300px;}
+.div3{background-color: red;
+     border: dashed 5px blue;
+     height: 300px; 
+     width: 300px;}
